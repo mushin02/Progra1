@@ -1,0 +1,21 @@
+2. Cree un algoritmo que describa su rutina diaria. Use condiciones, condiciones multiples y ciclos.
+
+1. Inicio
+2. si la hora es 7am y el dia es L-V:
+     i. levantarse
+    sino:
+     ii. seguir durmiendo
+3. lavarse los dientes
+4. sacar a los perros
+5. si hay huevos y pan en la cocina:
+    i. desayunar
+    sino:
+    ii. comprar por ubereats
+6. Mientras la hora sea entre 8am y 5PM
+    i. si hay llamadas en el calendario:
+           a. preparar material
+   ii. sino:
+          a. trabajar en projecto
+7. entrenar
+8. dormir
+9. fin
