@@ -1,0 +1,7 @@
+1- commit 682ffeee0f8d2c58df1502f6c30baac5b2bef012:
+- Added past exercises
+- Done as part of week 9 git exercises
+
+2- commit 5feb0e5b822310d805035a3317b214d35b7798f3
+- added diagrams from week 3
+- Changes done because I was missing the images from week 3
