@@ -1,0 +1,12 @@
+3. Cree un algoritmo que le pida un numero al usuario, y realice una suma de cada numero del 1 hasta ese número ingresado. Luego muestre el resultado de la suma.
+
+ inicio
+definir numero
+definir suma
+
+mostrar "ingrese su numero"
+pedir numero
+
+suma = numero * (numero + 1) / 2
+mostrar suma
+fin

@@ -1,0 +1,14 @@
+1. Cree un algoritmo para ver un video en Youtube. Sea lo más especifico posible.
+
+1. Inicio
+2. Encender la PC
+3. si tiene conexion a internet:
+     i. Abrir navegador web de preferencia
+    sino:
+    ii. reiniciar router y verificar la conexion
+5. escribir "youtube" en el buscador y apretar enter
+6. seleccionar pagina de youtube
+7. buscar nombre del video en el buscador
+8. seleccionar video que desee
+9. ver video
+10. Fin
